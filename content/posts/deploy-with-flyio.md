@@ -95,7 +95,7 @@ You can set app name, region, etc. and then flyctl will generate a `fly.toml` fi
 
 ![fly-interactive](https://raw.githubusercontent.com/fixcer/flyio/main/screenshots/fly-interactive.png)
 
-Then, we can add `builder` để build image từ Dockerfile:
+Then, we can add `builder` to build image from Dockerfile:
 
 ```toml
 [build]
