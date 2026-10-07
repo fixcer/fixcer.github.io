@@ -1,7 +1,23 @@
-## Hi there! 👋
+# 🚀 Toan NoVa AI Labs
 
-<img class="avatar" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=FlatNatural&mouthType=Default&skinColor=Brown" alt="avatar">
+### Building the Future with Intelligent AI Solutions
 
-- 🙋🏻‍♂️ I’m Toan Nguyen!
-- 🧑🏻‍💻 I’m interested in Backend Software Engineering and Cloud Technologies.
-- 📨 You can reach me at work@toannv.dev. Let's Talk!
+Welcome to **Toan NoVa AI Labs** — an early-stage AI startup focused on developing AI-native applications, autonomous AI agents, and intelligent workflow automation.
+
+### 🧠 What We Do
+- 🤖 **AI Agents** — Building autonomous agents powered by advanced LLMs.
+- ⚡ **AI Workflow Automation** — Automating complex business processes and repetitive tasks.
+- ☁️ **AI-Powered SaaS** — Developing scalable, cloud-native AI applications.
+- 🔗 **AI Integration** — Connecting AI models with real-world tools, APIs, and business systems.
+
+### 🛠️ Our Technology
+`Claude AI` · `LLMs` · `Golang` · `Python` · `Microservices` · `Cloud Infrastructure` · `AI Agents`
+
+### 🌍 Our Vision
+Making artificial intelligence more accessible, practical, and impactful through innovative AI-powered products.
+
+### 📬 Get in Touch
+- 🌐 Website: [toannv.dev](https://toannv.dev)
+- 📧 Email: work@toannv.dev
+
+**Innovate. Automate. Scale.** 🚀
